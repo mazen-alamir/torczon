@@ -1,5 +1,10 @@
 # A simple python implementation of Torczon algorithm
 
+**Code citation**
+
+[![DOI](https://zenodo.org/badge/260138021.svg)](https://zenodo.org/badge/latestdoi/260138021)
+
+
 Torczon algorithm is a derivative free algorithm initially designed for unconstrained nonlinear optimization problems. 
 Torczon algorithm is a version of the simplex algorithm (not that used in Linear Programming problems) which avoids the 
 Collapse of the polygone of solutions that is iteratively updated through the iterations.
